@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @s7batu
-- 🌱 I’m currently learning HTML & CSS & JAVASCRIPT
+- 🌱 I’m currently studying Flutter
 - 📫 safabatuhanbostan@gmail.com
 
 <!---
